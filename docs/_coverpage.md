@@ -10,4 +10,4 @@
 * 收益良多作此记录
 
 [GitHub](https://github.com/atuo-200)
-[Get Started](#/?id=写在前面的絮絮叨叨)
+[Get Started](#README)
