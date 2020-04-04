@@ -10,4 +10,4 @@
 * 收益良多作此记录
 
 [GitHub](https://github.com/atuo-200)
-[Get Started](http://localhost:3000/#/README)
+[Get Started](#/README)
