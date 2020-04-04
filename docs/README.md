@@ -215,7 +215,7 @@ $$
 
 
 参数向量的维度为n + 1，在特征向量中添加 x0 = 1 后，其维度也变为n + 1，则运用线性代数，可简化h
-$
+$$
 h_\theta(X) = \left[
  \begin{matrix}
    \theta_1 & \theta_2 & \cdots & \theta_n \\
@@ -226,7 +226,7 @@ h_\theta(X) = \left[
    x_1 \\ x_2 \\ \cdots \\ x_n \\
   \end{matrix}
   \right] = \theta^Tx
-$
+$$
 
 
 多变量代价函数类似于单变量代价函数，即
