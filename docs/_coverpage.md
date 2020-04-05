@@ -10,8 +10,5 @@
 * 收益良多作此记录
 
 [GitHub](https://github.com/atuo-200)
-<<<<<<< HEAD
+
 [Get Started](README)
-=======
-[Get Started](README)
->>>>>>> 89cf079e6a79f2f4319afa48458c66d736a7adbf
